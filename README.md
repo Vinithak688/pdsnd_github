@@ -11,4 +11,5 @@ Analysing the Bikeshare statistics in Chicago, Newyork & Washington
 washington.csv, new_york_city.csv, chicago.read_csv
 
 ### Credits
-I would like to thank Stackover flow for informative info
+I would like to thank Stackover flow for informative info.
+I would like to thank Udacity for this course

@@ -104,7 +104,7 @@ def station_stats(df):
     mcs= df['Start Station'].mode()[0]
 
     print("The most common start station is: ",mcs)
-
+    print("\nPrinted the common start station\n")
     # display most commonly used end station
     mce= df['End Station'].mode()[0]
     print("The most common end station is: ",mce)

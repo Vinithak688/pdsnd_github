@@ -5,6 +5,7 @@
 BikeShare Data analysis
 
 ### Description
+Analysing the Bikeshare statistics in Chicago, Newyork & Washington
 
 ### Files used
 

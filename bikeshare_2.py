@@ -5,8 +5,8 @@ import calendar
 
 pd.set_option('precision', 2)
 
-
-print('Hello! Let\'s dig into US bikeshare data!')
+print('Posting work on GitHub!')
+print('Hello! Let\'s dig into US bikeshare data')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 st_time= time.time()
 while True:
